@@ -1,0 +1,6 @@
+0 : aller acheter du lait : Fait
+1 : rdv taf 15 h : Pas Fait
+2 : aller chercher les gosses à 16h : Pas Fait
+3 : rdv assurance 17h30 : Pas Fait
+4 : vendre voiture : Fait
+5 : acheter ps5 : Pas Fait
